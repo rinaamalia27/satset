@@ -11,7 +11,7 @@ $key = 'https://forward.oneaset.co.id/management/s/7BfQFf';
 if($key == null) {
     die('Masukan apikey di line 9 goblog!!');
 }
-echo '----------- AUTO REFF ONEASET WITH SMSHUB -----------'.PHP_EOL.PHP_EOL;
+echo '----------- AUTO REFF ONEASET BY GAWA 1927 -----------'.PHP_EOL.PHP_EOL;
 use Curl\Curl;
 $agent = new userAgent();
 
